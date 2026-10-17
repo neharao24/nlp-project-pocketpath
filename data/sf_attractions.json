@@ -1,0 +1,88 @@
+[
+    {
+      "id": "sf_01",
+      "name": "Cable Car Museum",
+      "neighborhood": "Nob Hill",
+      "category": "history",
+      "admission_cost": 0.00,
+      "student_pricing": {
+        "college_student_discount": false,
+        "college_price": 0.00,
+        "youth_12_17_price": 0.00,
+        "eligibility_note": "Free civic museum. General admission is $0.00 for all visitors, so no student discount is required."
+      },
+      "duration_hours": 1.5,
+      "operating_days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+      "operating_hours": "10:00 AM - 6:00 PM",
+      "walking_heavy": false
+    },
+    {
+      "id": "sf_02",
+      "name": "Alcatraz Island Tour",
+      "neighborhood": "Embarcadero",
+      "category": "history",
+      "admission_cost": 47.95,
+      "student_pricing": {
+        "college_student_discount": false,
+        "college_price": 47.95,
+        "youth_12_17_price": 47.95,
+        "child_5_11_price": 29.15,
+        "eligibility_note": "No college or high school student ID discount exists for Alcatraz City Cruises. College students and youth (12-17) pay full adult rate ($47.95). Only children (5-11) receive a reduced rate ($29.15)."
+      },
+      "duration_hours": 3.5,
+      "operating_days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+      "operating_hours": "8:45 AM - 4:00 PM",
+      "walking_heavy": true
+    },
+    {
+      "id": "sf_03",
+      "name": "Golden Gate Park & Conservatory of Flowers",
+      "neighborhood": "Richmond",
+      "category": "park",
+      "admission_cost": 17.00,
+      "student_pricing": {
+        "college_student_discount": true,
+        "college_price": 12.00,
+        "youth_12_17_price": 12.00,
+        "eligibility_note": "College students with a valid photo ID qualify for the $12.00 rate (saving $5.00 off non-resident adult admission). Closed Mondays."
+      },
+      "duration_hours": 2.5,
+      "operating_days": ["Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+      "operating_hours": "10:00 AM - 4:30 PM",
+      "walking_heavy": true
+    },
+    {
+      "id": "sf_04",
+      "name": "In-N-Out Burger (Fisherman's Wharf)",
+      "neighborhood": "Fisherman's Wharf",
+      "category": "food",
+      "admission_cost": 12.00,
+      "student_pricing": {
+        "college_student_discount": false,
+        "college_price": 12.00,
+        "youth_12_17_price": 12.00,
+        "eligibility_note": "Commercial fast food restaurant. No student discounts apply; $12.00 reflects estimated meal expenditure."
+      },
+      "duration_hours": 1.0,
+      "operating_days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+      "operating_hours": "10:30 AM - 1:00 AM",
+      "walking_heavy": false
+    },
+    {
+      "id": "sf_05",
+      "name": "Palace of Fine Arts",
+      "neighborhood": "Marina",
+      "category": "park",
+      "admission_cost": 0.00,
+      "student_pricing": {
+        "college_student_discount": false,
+        "college_price": 0.00,
+        "youth_12_17_price": 0.00,
+        "eligibility_note": "Public outdoor park and lagoon. Free access for all visitors."
+      },
+      "duration_hours": 1.0,
+      "operating_days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+      "operating_hours": "6:00 AM - 10:00 PM",
+      "walking_heavy": false
+    }
+  ]
